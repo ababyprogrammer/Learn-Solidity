@@ -10,4 +10,6 @@ We want to teach solidity in this repository.
 
 Stay with us.
 
+_Comming soon_
+
 **A big thanks to you for read these types!** 👍🏼
