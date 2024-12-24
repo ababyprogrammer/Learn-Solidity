@@ -103,6 +103,6 @@ You could add a function like the above yourself, but you would have a function 
 
 **To be continue**
 
-_For see more go to the next chapter_
+_For see more, go to the next chapter_
 
 **👨🏼‍💻Thank you to read these types.👩🏼‍💻**
