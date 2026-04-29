@@ -14,6 +14,6 @@ Stay with us.
 
 ====================================================================
 
-Of course, If you love this class and want to support me, You can buy me a Coffee!
+Of course, If you love this class and want to support me, You can buy me a COFFEE!
 
 By me a Coffee ☕ (ETH): [{ 0x38b99C10F7bF6Ff95A53cA53Bc1aa897F7C2eF18 }]
