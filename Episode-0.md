@@ -68,8 +68,3 @@ Sources:
 [Smart Contracts on Blockchain — Investopedia](https://www.investopedia.com/terms/s/smart-contracts.asp?utm_source=copilot.com)
 [What are smart contracts? — IBM](https://www.ibm.com/think/topics/smart-contracts?utm_source=copilot.com)
 
-==========================================================================================
-
-Of course, If you love this class and want to support me, You can buy me a Coffee! 😄
-
-By me a Coffee ☕: [{ 0x38b99C10F7bF6Ff95A53cA53Bc1aa897F7C2eF18 }]
